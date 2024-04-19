@@ -1,0 +1,34 @@
+{
+  "SinhVien": [
+    {
+      "ma_sinh_vien_ph43396": "ph43396",
+      "ten_ph43396": "Kieu Trinhhh",
+      "gioi_tinh_ph43396": "Nuuu",
+      "ngay_sinh_ph43396": "30/07/2004",
+      "email_ph43396": "trinhpk@gmail.com",
+      "hinhanh_ph43396": "https://photo.znews.vn/w660/Uploaded/qhj_yvobvhfwbv/2018_07_18/Nguyen_Huy_Binh1.jpg",
+      "so_dien_thoai_ph43396": "098775648725454",
+      "id": "1"
+    },
+    {
+      "ma_sinh_vien_ph43396": "PH31537",
+      "ten_ph43396": "Kieu Trinh1",
+      "gioi_tinh_ph43396": "Nu",
+      "ngay_sinh_ph43396": "30/07/2004",
+      "email_ph43396": "trinh@gmail.com",
+      "hinhanh_ph43396": "https://images2.thanhnien.vn/528068263637045248/2023/4/23/edit-truc-anh-16822518118551137084698.png",
+      "so_dien_thoai_ph43396": "098767564",
+      "id": "2"
+    },
+    {
+      "id": "4899",
+      "ma_sinh_vien_ph43396": "asd",
+      "ten_ph43396": "asd",
+      "gioi_tinh_ph43396": "asd",
+      "ngay_sinh_ph43396": "asd",
+      "email_ph43396": "sad",
+      "hinhanh_ph43396": "https://skylaacademy.edu.vn/wp-content/uploads/2022/10/england-wal.jpg",
+      "so_dien_thoai_ph43396": "asd"
+    }
+  ]
+}
